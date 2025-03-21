@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">bmi-calc</string>
+    <string name="height">Wzrost (cm)</string>
+    <string name="weight">Waga (kg)</string>
+    <string name="calculate">Oblicz</string>
+    <string name="result">Wynik</string>
+    <string name="waist_circumference">Obwód talii (cm)</string>
+    <string name="hips_circumference">Obwód bioder (cm)</string>
+</resources>
